@@ -1,0 +1,122 @@
+2021-12-30 10:20:08,378 - EBANKING -INFO - URL is Opened
+2021-12-30 10:20:08,498 - EBANKING -INFO - Entered UserName
+2021-12-30 10:20:08,570 - EBANKING -INFO - Entered Password
+2021-12-30 10:20:09,739 - EBANKING -INFO - Login Test Passes
+2021-12-30 10:36:51,283 - EBANKING -INFO - URL is Opened
+2021-12-30 10:36:51,386 - EBANKING -INFO - Entered UserName
+2021-12-30 10:36:51,451 - EBANKING -INFO - Entered Password
+2021-12-30 10:36:52,499 - EBANKING -INFO - Login Test Passes
+2021-12-30 10:45:55,192 - EBANKING -INFO - URL is Opened
+2021-12-30 10:45:55,335 - EBANKING -INFO - Entered UserName
+2021-12-30 10:45:55,500 - EBANKING -INFO - Entered Password
+2021-12-30 10:45:56,976 - EBANKING -INFO - Login Test Passes
+2021-12-30 10:46:31,671 - EBANKING -INFO - URL is Opened
+2021-12-30 10:46:31,758 - EBANKING -INFO - Entered UserName
+2021-12-30 10:46:31,783 - EBANKING -INFO - Entered Password
+2021-12-30 10:46:32,919 - EBANKING -INFO - Login Test Passes
+2021-12-30 12:32:38,833 - EBANKING -INFO - URL is Opened
+2021-12-30 12:32:38,930 - EBANKING -INFO - Entered UserName
+2021-12-30 12:32:38,995 - EBANKING -INFO - Entered Password
+2021-12-30 12:32:40,043 - EBANKING -INFO - Login Test Passes
+2021-12-30 12:40:57,410 - EBANKING -INFO - URL is Opened
+2021-12-30 12:40:57,525 - EBANKING -INFO - Entered UserName
+2021-12-30 12:40:57,601 - EBANKING -INFO - Entered Password
+2021-12-30 12:40:59,493 - EBANKING -INFO - Login Test Passes
+2021-12-30 12:42:30,453 - EBANKING -INFO - URL is Opened
+2021-12-30 12:42:30,545 - EBANKING -INFO - Entered UserName
+2021-12-30 12:42:30,606 - EBANKING -INFO - Entered Password
+2021-12-30 14:43:38,896 - EBANKING -INFO - user name provided
+2021-12-30 14:43:39,073 - EBANKING -INFO - password provided
+2021-12-30 14:43:42,168 - EBANKING -INFO - Login passed
+2021-12-30 14:43:43,740 - EBANKING -INFO - user name provided
+2021-12-30 14:43:44,263 - EBANKING -INFO - password provided
+2021-12-30 14:43:47,323 - EBANKING -INFO - Login passed
+2021-12-30 14:43:48,621 - EBANKING -INFO - user name provided
+2021-12-30 14:43:48,671 - EBANKING -INFO - password provided
+2021-12-30 14:43:51,790 - EBANKING -INFO - Login passed
+2021-12-30 14:43:53,248 - EBANKING -INFO - user name provided
+2021-12-30 14:43:53,396 - EBANKING -INFO - password provided
+2021-12-30 14:43:56,450 - EBANKING -INFO - Login passed
+2021-12-30 14:43:58,023 - EBANKING -INFO - user name provided
+2021-12-30 14:43:58,301 - EBANKING -INFO - password provided
+2021-12-30 14:44:01,359 - EBANKING -INFO - Login passed
+2021-12-30 14:47:27,587 - EBANKING -INFO - user name provided
+2021-12-30 14:47:28,181 - EBANKING -INFO - password provided
+2021-12-30 14:47:31,273 - EBANKING -INFO - Login passed
+2021-12-30 14:47:32,591 - EBANKING -INFO - user name provided
+2021-12-30 14:47:32,993 - EBANKING -INFO - password provided
+2021-12-30 14:47:36,049 - EBANKING -INFO - Login passed
+2021-12-30 14:47:37,451 - EBANKING -INFO - user name provided
+2021-12-30 14:47:37,735 - EBANKING -INFO - password provided
+2021-12-30 14:47:40,802 - EBANKING -INFO - Login passed
+2021-12-30 14:47:42,178 - EBANKING -INFO - user name provided
+2021-12-30 14:47:42,235 - EBANKING -INFO - password provided
+2021-12-30 14:47:45,316 - EBANKING -INFO - Login passed
+2021-12-30 14:47:46,734 - EBANKING -INFO - user name provided
+2021-12-30 14:47:46,980 - EBANKING -INFO - password provided
+2021-12-30 14:47:50,044 - EBANKING -INFO - Login passed
+2021-12-30 14:49:00,196 - EBANKING -INFO - user name provided
+2021-12-30 14:49:00,219 - EBANKING -INFO - password provided
+2021-12-30 14:49:05,363 - EBANKING -INFO - user name provided
+2021-12-30 14:49:05,392 - EBANKING -INFO - password provided
+2021-12-30 14:49:10,491 - EBANKING -INFO - user name provided
+2021-12-30 14:49:10,511 - EBANKING -INFO - password provided
+2021-12-30 14:49:15,618 - EBANKING -INFO - user name provided
+2021-12-30 14:49:15,639 - EBANKING -INFO - password provided
+2021-12-30 14:52:55,930 - EBANKING -INFO - user name provided
+2021-12-30 14:52:55,957 - EBANKING -INFO - password provided
+2021-12-30 14:53:01,169 - EBANKING -INFO - user name provided
+2021-12-30 14:53:01,191 - EBANKING -INFO - password provided
+2021-12-30 14:53:06,239 - EBANKING -INFO - user name provided
+2021-12-30 14:53:06,256 - EBANKING -INFO - password provided
+2021-12-30 14:53:11,077 - EBANKING -INFO - user name provided
+2021-12-30 14:53:11,094 - EBANKING -INFO - password provided
+2021-12-30 14:53:15,652 - EBANKING -INFO - user name provided
+2021-12-30 14:53:15,669 - EBANKING -INFO - password provided
+2021-12-30 18:15:09,441 - EBANKING -INFO - user name provided
+2021-12-30 18:15:09,463 - EBANKING -INFO - password provided
+2021-12-30 18:15:14,462 - EBANKING -INFO - user name provided
+2021-12-30 18:15:14,476 - EBANKING -INFO - password provided
+2021-12-30 18:15:19,449 - EBANKING -INFO - user name provided
+2021-12-30 18:15:19,504 - EBANKING -INFO - password provided
+2021-12-30 18:15:24,458 - EBANKING -INFO - user name provided
+2021-12-30 18:15:24,471 - EBANKING -INFO - password provided
+2021-12-30 18:15:27,817 - EBANKING -INFO - Login passed
+2021-12-30 18:15:29,176 - EBANKING -INFO - user name provided
+2021-12-30 18:15:29,197 - EBANKING -INFO - password provided
+2021-12-30 18:16:15,391 - EBANKING -INFO - user name provided
+2021-12-30 18:16:15,457 - EBANKING -INFO - password provided
+2021-12-30 18:16:18,543 - EBANKING -INFO - Login passed
+2021-12-30 18:16:19,932 - EBANKING -INFO - user name provided
+2021-12-30 18:16:19,975 - EBANKING -INFO - password provided
+2021-12-30 18:16:23,081 - EBANKING -INFO - Login passed
+2021-12-30 18:16:24,369 - EBANKING -INFO - user name provided
+2021-12-30 18:16:24,501 - EBANKING -INFO - password provided
+2021-12-30 18:16:27,556 - EBANKING -INFO - Login passed
+2021-12-30 18:16:28,840 - EBANKING -INFO - user name provided
+2021-12-30 18:16:28,907 - EBANKING -INFO - password provided
+2021-12-30 18:16:31,965 - EBANKING -INFO - Login passed
+2021-12-30 18:16:33,263 - EBANKING -INFO - user name provided
+2021-12-30 18:16:33,378 - EBANKING -INFO - password provided
+2021-12-30 18:16:36,430 - EBANKING -INFO - Login passed
+2021-12-30 18:29:59,113 - EBANKING -INFO - User name is provided
+2021-12-30 18:29:59,187 - EBANKING -INFO - Passsword is provided
+2021-12-30 18:30:02,578 - EBANKING -INFO - providing customer details....
+2021-12-30 18:30:48,094 - EBANKING -INFO - User name is provided
+2021-12-30 18:30:48,116 - EBANKING -INFO - Passsword is provided
+2021-12-30 18:30:52,254 - EBANKING -INFO - providing customer details....
+2021-12-30 18:35:44,977 - EBANKING -INFO - User name is provided
+2021-12-30 18:35:45,030 - EBANKING -INFO - Passsword is provided
+2021-12-30 18:35:49,484 - EBANKING -INFO - providing customer details....
+2021-12-30 18:36:33,594 - EBANKING -INFO - User name is provided
+2021-12-30 18:36:33,670 - EBANKING -INFO - Passsword is provided
+2021-12-30 18:36:37,844 - EBANKING -INFO - providing customer details....
+2021-12-30 18:39:31,271 - EBANKING -INFO - User name is provided
+2021-12-30 18:39:31,342 - EBANKING -INFO - Passsword is provided
+2021-12-30 18:39:36,070 - EBANKING -INFO - providing customer details....
+2021-12-30 18:40:12,210 - EBANKING -INFO - User name is provided
+2021-12-30 18:40:12,421 - EBANKING -INFO - Passsword is provided
+2021-12-30 18:40:16,658 - EBANKING -INFO - providing customer details....
+2021-12-30 18:41:17,274 - EBANKING -INFO - User name is provided
+2021-12-30 18:41:17,409 - EBANKING -INFO - Passsword is provided
+2021-12-30 18:41:22,403 - EBANKING -INFO - providing customer details....
